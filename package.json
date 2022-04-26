@@ -1,0 +1,23 @@
+{
+  "name": "leo-deom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leo-na/leo-deom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leo-na/leo-deom/issues"
+  },
+  "homepage": "https://github.com/leo-na/leo-deom#readme",
+  "devDependencies": {
+    "parcel": "^2.5.0"
+  }
+}
